@@ -75,7 +75,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/Chest-detection-app
+     docker pull PreethaMurugan21105/Chest-detection-app
      ```
      This command downloads the Docker image from the DockerHub.
 
